@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/B-LIPIKA/leetcode_learning/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/B-LIPIKA/leetcode_learning/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/B-LIPIKA/leetcode_learning/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/B-LIPIKA/leetcode_learning/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/B-LIPIKA/leetcode_learning/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
